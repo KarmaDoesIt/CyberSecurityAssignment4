@@ -1,5 +1,5 @@
-# 🌟 Project Title
-A brief description of your project. Explain what it does, its purpose, and why it is valuable.
+# 🌟 Assignment 4
+Setting up Repos and Badge certifications. 
 
 ---
 

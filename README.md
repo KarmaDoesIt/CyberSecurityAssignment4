@@ -1,4 +1,4 @@
-c# 🌟 Assignment 4
+🌟 Assignment 4
 Setting up Repos and Badge certifications. 
 
 ---

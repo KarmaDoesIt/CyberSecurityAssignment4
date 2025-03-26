@@ -2,10 +2,7 @@
 Setting up Repos and Badge certifications. 
 
 ---
-git clone https://github.com/ossf/scorecard
-cd scorecard
-go build
-./scorecard --repo=github.com/KarmaDoesIt/CyberSecurityAssignment4
+
 
 
 ## 🏅 **Badges**
